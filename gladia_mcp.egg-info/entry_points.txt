@@ -1,0 +1,2 @@
+[console_scripts]
+gladia-mcp = gladia_mcp.server:main

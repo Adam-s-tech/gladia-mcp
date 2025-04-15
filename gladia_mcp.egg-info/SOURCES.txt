@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+gladia_mcp/__init__.py
+gladia_mcp/__main__.py
+gladia_mcp/model.py
+gladia_mcp/server.py
+gladia_mcp/transcription.py
+gladia_mcp/utils.py
+gladia_mcp.egg-info/PKG-INFO
+gladia_mcp.egg-info/SOURCES.txt
+gladia_mcp.egg-info/dependency_links.txt
+gladia_mcp.egg-info/entry_points.txt
+gladia_mcp.egg-info/requires.txt
+gladia_mcp.egg-info/top_level.txt
+tests/test_utils.py
